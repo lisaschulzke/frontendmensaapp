@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lisaschulzke/frontendmensaapp/issues"
   },
-  "homepage": "https://github.com/lisaschulzke/frontendmensaapp#readme"
+  "homepage": "https://github.com/lisaschulzke/frontendmensaapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
