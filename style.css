@@ -75,3 +75,42 @@
   background-color: #264018; 
   color: white;
 }
+
+#table {
+  border: 1px solid  #264018;
+  color: #97FF5E;
+  padding: 1%;
+  font-family: Source Sans Pro, sans-serif;
+  margin-top: 7%;
+}
+
+#tableDays {
+  color: #264018;
+  padding: 2%;
+  padding-left: 5%;
+  margin: 2%;
+}
+
+table, th, td {
+  border: inherit;
+}
+
+th, td {
+  padding: 15px;
+}
+
+/* .c1 {
+  padding: 10%;
+}
+.c2 {
+  padding: 10%;
+}
+.c3 {
+  padding: 10%;
+}
+.c4 {
+  padding: 10%;
+}
+.c5 {
+  padding: 10%;
+} */
